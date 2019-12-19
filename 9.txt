@@ -7,3 +7,5 @@ aaaa
 
 add => 19 => quakexx fork ###and modify this line to see the effect on comment
 add 20 in new line as project owner requested
+#from upstream => add something in the origin, wish it will cause a conflict
+=> fix this conflict
